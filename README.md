@@ -130,8 +130,8 @@ new release only!
 <br>
 
 ## 実装予定の機能
-・ユーザー登録者動詞のフレンド機能  
-・自分の投稿したmusicにチャットがあったら通知される通知機能  
+・ユーザー登録者同士のフレンド機能  
+・自分の投稿したmusicにコメントチャットがあったら通知される通知機能  
 <br>
 
 ## データーベース設計
@@ -140,11 +140,17 @@ new release only!
 <br>
 
 ## ローカルでの動作方法
-申し訳ありません、まだ設計段階です。  
-git cloneしてから、ローカルで動作をさせるまでに必要なコマンドを記述  
-<br>
-
-## アプリケーション開発に使用した環境
+git clone https://github.com/kyohey-sekiya/new_release_only-.git  
+cd new_release_only-  
+bundle install  
+'' install  
+'' install  
+'' install  
+rails db:create  
+rails db:migrate  
+rails s  
+  
+### アプリケーション開発に使用した環境
 * Ruby on Rails 6.0.0  
 * 使用したgem
     * devise
