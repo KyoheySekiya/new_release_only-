@@ -135,10 +135,12 @@ new release only!
 <br>
 
 ## データーベース設計
-<img width="200" alt="new_release_only!_DB" src="https://user-images.githubusercontent.com/66302829/92560956-37a4cd00-f2ae-11ea-8033-3bc62a9d0588.jpeg"  
+<img width="200" alt="new_release_only!_DB" src="https://user-images.githubusercontent.com/66302829/92577447-9c1f5680-f2c5-11ea-91ee-264acc31518e.jpeg"  
+
 <br>
 
 ## ローカルでの動作方法
+申し訳ありません、まだ設計段階です。  
 git cloneしてから、ローカルで動作をさせるまでに必要なコマンドを記述  
 <br>
 
