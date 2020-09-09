@@ -1,19 +1,60 @@
 # README
 
-* Ruby version
+## アプリケーション名
+new release only!  
+<br>
+## アプリケーション概要
+投稿型アプリケーションでユーザーがおすすめの楽曲を共有できるアプリケーションです。  
+<br>
 
-* System dependencies
+## URL
+申し訳ありませんまだ設計段階です。  
+<br>
 
-* Configuration
+## テスト用アカウント
+申し訳ありませんまだ設計段階です。  
+<br>
 
-* Database creation
+## 利用方法
+* ユーザー登録しなくてもできること
+    * トップページにあるmusic情報を一覧として閲覧できる
+* ユーザー登録後にできること
+    * music情報の投稿、編集、削除
+    * music詳細画面でのコメントチャット機能
+    * music情報の検索機能
+<br>
 
-* Database initialization
+## 目指した課題解決
+毎月開催される既存のDJイベントで紹介される楽曲のライブラリ化を実現するためです。  
+これまで紹介された楽曲はtwitterのイベントアカウントでのツイートで共有はされていましたが、`貴重な情報の垂れ流し状態だった`のでこの情報をなんとか貯めていかなければもったいないと考え開発を決めました。  
+<br>
 
-* How to run the test suite
+## 洗い出した要件
+スプレッドシートにまとめた要件定義を、マークダウンで記述しなおしましょう。  
+<br>
 
-* Services (job queues, cache servers, search engines, etc.)
+## 実装した機能についてのgifと説明
+申し訳ありませんまだ設計段階です。  
+<br>
 
-* Deployment instructions
+## 実装予定の機能
+・フレンド機能の実装  
+・自分の投稿したmusicにチャットがあったら通知する機能  
+<br>
 
-* ...
+## データーベース設計
+<img width="200" alt="new_release_only!_DB" src="https://user-images.githubusercontent.com/66302829/92560956-37a4cd00-f2ae-11ea-8033-3bc62a9d0588.jpeg"  
+<br>
+
+## ローカルでの動作方法
+git cloneしてから、ローカルで動作をさせるまでに必要なコマンドを記述  
+<br>
+
+## アプリケーション開発に使用した環境
+* Ruby on Rails 6.0.0  
+* 使用したgem
+    * devise
+    * 
+    * 
+    * 
+<br>
